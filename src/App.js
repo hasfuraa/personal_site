@@ -17,7 +17,11 @@ function App() {
             style={{ width: "150px", borderRadius: "50%", marginBottom: "1rem" }}
           />
           <p>
-            I'm an AI engineer interested in perception, policy learning, and generative protein design. Most of my work has been done in industry and is therefore unfortunately private, but here are some <a href="https://patents.google.com/?inventor=andres+hasfura&oq=andres+hasfura">patents</a> and (very dated) <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=andres+hasfura&btnG=">papers</a>. For more current work please reach out to me via <a href="https://www.linkedin.com/in/andres-hasfura-25a00061/">linkedin</a>.
+            I'm an AI engineer interested in perception, policy learning, and generative protein design. For the last six years I've worked in self-driving cars at Cruise where I have focused on 3d perception tasks such as keypoint detection for gesture and kinematic estimation, temporal detection for small object recall, semantic segmentation for debris detection.
+          </p>
+
+          <p>
+            Most of my work has been done in industry and is therefore unfortunately private, but see my google scholar profile for some <a href="https://scholar.google.com/citations?user=D-DUW84AAAAJ&hl=en&oi=ao">(very dated) public papers and patents</a>. For more current work please reach out to me via <a href="https://www.linkedin.com/in/andres-hasfura-25a00061/">linkedin</a>, would love to chat :).
           </p>
         </section>
 
