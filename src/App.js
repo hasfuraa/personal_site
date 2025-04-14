@@ -28,6 +28,9 @@ function App() {
         <section id="writing" style={{ marginBottom: "2rem" }}>
           <h2 style={{ borderBottom: "1px solid #ccc", paddingBottom: "0.25rem" }}>Writing Samples</h2>
           <ul>
+            <li><a href="https://medium.com/@hasfuraa/flow-matching-and-diffusion-deep-dive-b080f7782654">Flow Matching and Diffusion Deep Dive</a></li>
+          </ul>
+          <ul>
             <li><a href="https://medium.com/@hasfuraa/unified-robot-task-framework-fa829365398c">Unified Robot Task Framework</a></li>
           </ul>
           <p>More coming soon...</p>
